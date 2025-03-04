@@ -12,4 +12,4 @@
 	- Run `stop_schedule()` to stop
 - Visit or request data from the `/weather` URL to get weather data
 
-Note this is intended as a demo/ learning project, as such the intended domain is not provided.
+Note this is intended as a demo/ learning project, as such the intended domain to scrap is not provided.
