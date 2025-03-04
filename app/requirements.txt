@@ -1,0 +1,10 @@
+flask
+requests
+bs4
+selenium
+chromedriver-binary-auto
+mpu
+flask-sqlalchemy
+pymysql
+flask-apscheduler
+dotenv
